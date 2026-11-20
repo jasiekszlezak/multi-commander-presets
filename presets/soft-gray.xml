@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<colors>
+  <backgroundhighlight value="1" />
+  <override_windows_bg value="1">
+    <alternating value="0" />
+    <active color="919191" />
+    <inactive color="858585" />
+    <active_alt color="666666" />
+    <inactive_alt color="c0c0c0" />
+  </override_windows_bg>
+  <item_specific_bg_color value="1">
+    <use_files_bg value="1" />
+    <use_folders_bg value="1" />
+  </item_specific_bg_color>
+  <focusrect value="252525" />
+  <files>
+    <normal foreground="151515" background="-1" />
+    <focus foreground="0d0d0d" background="-1" />
+    <selected foreground="000000" background="-1" />
+    <checked foreground="ffffff" background="002e60" />
+    <checkedfocus foreground="ffffff" background="003872" />
+  </files>
+  <folders>
+    <normal foreground="151515" background="-1" />
+    <focus foreground="0d0d0d" background="-1" />
+    <selected foreground="000000" background="-1" />
+    <checked foreground="ffffff" background="002e60" />
+    <checkedfocus foreground="ffffff" background="003872" />
+  </folders>
+  <forcefocusrect value="1" />
+  <special value="0">
+    <autocolor value="1" />
+    <autocolorvalue value="135" />
+  </special>
+  <rulebasedoverridecolors value="0" />
+  <tweak>
+    <autofadeselection value="1" />
+  </tweak>
+  <gridline value="7b7b7b" />
+  <gridlineH value="7b7b7b" />
+  <pathfield>
+    <active>
+      <color background="a4a4a4" foreground="1a1a1a" />
+      <color2 background="a4a4a4" />
+      <hot foreground="000000" />
+    </active>
+    <inactive>
+      <color background="979797" foreground="202020" />
+      <color2 background="979797" />
+      <hot foreground="000000" />
+    </inactive>
+  </pathfield>
+</colors>
+  
